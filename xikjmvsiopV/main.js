@@ -1,0 +1,1 @@
+$('#deb1').css('flex-direction','column')
